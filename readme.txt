@@ -4,8 +4,10 @@ Author URI: https://gitlab.com/AlsconWeb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGUAU8B98FST6&source=url
 Tags: event manager, location, Event, events, event management, google maps, listings, Location, Event Location, event
 location
-Contributors: AlexL-JWA
-Requires PHP: 5.4
+Contributors: alexls
+Requires PHP: 5.6
+Tested up to: 5.4
+Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
