@@ -8,7 +8,7 @@
  */
 
 /**
- * Plugin Name: WP Event Manager - Location
+ * Plugin Name: Location for WP Event Manager
  * Plugin URI: http://justwebagency.com/
  * Description: Add Location page in single event
  * Author: Alex L
@@ -19,7 +19,6 @@
  * Since: 1.0
  * Requires WordPress Version at least: 4.1
  *
- * Copyright: 2018 WP Event Manager
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  */

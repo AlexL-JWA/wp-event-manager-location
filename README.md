@@ -1,4 +1,4 @@
-# WP Event Manager - Event Location
+# Location for WP Event Manager
 
 Adds to the event a description of the location in which the event takes place
 

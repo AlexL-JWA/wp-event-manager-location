@@ -1,4 +1,4 @@
-===  WP Event Manager - Event Location ===
+===  Location for WP Event Manager ===
 Author: Alex L
 Author URI: https://gitlab.com/AlsconWeb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WGUAU8B98FST6&source=url
